@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchBooks</string>
+
+    <string-array name="spinner1_Options">
+        <item>Recommended</item>
+        <item>Demand</item>
+        <item>Course Requirements</item>
+        <item>Discount</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
